@@ -1,0 +1,9 @@
+.card_slide{
+    height: 200px;
+    display: flex;
+    flex-wrap:wrap;
+    border:2px;
+    background-color:rgba(0, 0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: 
+}

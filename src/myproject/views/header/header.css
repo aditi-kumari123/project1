@@ -1,0 +1,60 @@
+.navbar{
+      width:100%;
+    overflow:hidden;
+  
+    }
+
+  .container{
+    margin-top: 2vw;
+    }
+  @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+  section {
+      padding: 60px 0;
+    }
+  
+  .section-title {
+      text-align: center;
+      color: #007b5f;
+      text-transform: uppercase;
+    }
+  .form-control{
+    font-size: 18px;
+    padding-right:100px;
+    margin-top:30px;
+    margin-left:800px;
+    margin-right:-30px;
+   
+    }
+  .btn {
+    font-size: 18px;
+    margin-top:30px;
+    margin-right:-30px;
+    
+    }
+    .fa-search{
+      font-size: 20px;
+      color: white;
+      
+    }
+  
+  .icon_a{
+    font-size: 56px;
+    color: black;
+    margin-left: 15px;
+    display: block;
+    padding-top: 5px;
+    margin-right:-30px;
+    
+    }
+  .icon{
+    font-size: 49px;    
+    margin-left: 20px;
+     color: black;    
+    display: block;
+    padding-top: 13px;
+    }
+  .header_text{
+    display:flex;
+    flex-wrap:wrap;
+  }
+  
